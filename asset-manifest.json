@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d595ce36.js",
+    "static/media/history.jpg": "/static/media/history.a9574d6e313c61463103.jpg",
+    "static/media/sandeza.jpg": "/static/media/sandeza.58c5a3fa1968f0570392.jpg",
+    "index.html": "/index.html",
+    "main.d595ce36.js.map": "/static/js/main.d595ce36.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d595ce36.js"
+  ]
+}
